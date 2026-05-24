@@ -1,0 +1,9 @@
+com/sophialink/sophialink/controller/UsuarioControllerTest.class
+com/sophialink/sophialink/SophialinkApplicationTests.class
+com/sophialink/sophialink/service/ResenaServiceTest.class
+com/sophialink/sophialink/service/UniversidadServiceTest.class
+com/sophialink/sophialink/config/TestSecurityConfig.class
+com/sophialink/sophialink/controller/UniversidadControllerTest.class
+com/sophialink/sophialink/service/UsuarioServiceTest.class
+com/sophialink/sophialink/controller/TestControllerTest.class
+com/sophialink/sophialink/controller/ResenaControllerTest.class
